@@ -6,3 +6,4 @@
 - *Aperfeiçoamento sobre CSS*
 - *Criando um site basico para introduzir e testar o Bootstrap*
 - *Conclusão dos exercicios do Grid Garden CSS*
+- *Estudos sobre o funcionamento de CSS Flexbox e inicio dos exercicios*
