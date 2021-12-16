@@ -5,3 +5,4 @@
 - *Criando e editando o arquivo README.me*
 - *Aperfeiçoamento sobre CSS*
 - *Criando um site basico para introduzir e testar o Bootstrap*
+- *Conclusão dos exercicios do Grid Garden CSS*
