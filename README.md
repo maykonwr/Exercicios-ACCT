@@ -1,5 +1,5 @@
 # Exercicios-ACCT
-## 'Lista de estudos exercicios feitos no estagio ACCT'
+## Lista de estudos exercicios feitos no estagio ACCT
 
 - *Aprendendo a utilizar o git*
 - *Criando e editando o arquivo README direto pelo terminal*
