@@ -2,7 +2,7 @@
 ## Lista de exercicios feitos no estagio ACCT
 
 - *Aprendendo a utilizar o git*
-- *Criando e editando o arquivo README.me*
+- *Criando e editando o arquivo README direto pelo terminal*
 - *Aperfeiçoamento sobre CSS*
 - *Criando um site basico para introduzir e testar o Bootstrap*
 - *Conclusão dos exercicios do Grid Garden CSS*
