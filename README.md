@@ -8,3 +8,4 @@
 - *Conclusão dos exercicios do Grid Garden CSS*
 - *Estudos sobre o funcionamento de CSS Flexbox e inicio dos exercicios*
 - *Conclusão dos exercicios do flexbox Froggy*
+- *inicio do modulo de JavaScrip*
