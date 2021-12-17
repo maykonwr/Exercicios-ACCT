@@ -1,0 +1,7 @@
+/* Exercicio 07 */
+
+#pond {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+  }

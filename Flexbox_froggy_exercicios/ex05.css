@@ -1,0 +1,6 @@
+/* Exercicio 05 */
+
+#pond {
+    display: flex;
+    align-items: flex-end;
+  }

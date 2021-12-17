@@ -1,0 +1,6 @@
+/* Exercicio 03 */
+
+#pond {
+    display: flex;
+    justify-content: space-around;
+  }

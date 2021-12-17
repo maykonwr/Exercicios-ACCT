@@ -1,0 +1,6 @@
+/* Exercicio 04 */
+
+#pond {
+    display: flex;
+    justify-content: space-between;
+  }
