@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-image: linear-gradient(45deg, rgb(31, 31, 211), rgb(0, 140, 255));
+    height: 100vh;
+    color: white;
+}
+
+.calculadora{
+    text-align: center;
+    font-family: 'Carter One', cursive;
+    font-size: 17px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.botao{
+    width: 50px;
+    height: 50px;
+    margin: 3px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(51, 49, 49);
+    color: white;
+    border: none;
+    border-radius: 16px ;
+}
+
+.botao:hover{
+    background-color: rgb(77, 76, 76);
+}
+
+.btn-igual, .btn-mais, .btn-menos, .btn-multiplicar{
+    background-color: orange;
+}
+
+.btn-igual:hover, .btn-mais:hover, .btn-menos:hover, .btn-multiplicar:hover{
+    background-color: rgb(246, 198, 108);
+}
+
+.btn-limpar, .btn-voltar, .btn-divisao{
+    background-color: rgb(68, 68, 68);
+}
+
+.btn-limpar:hover, .btn-voltar:hover, .btn-divisao:hover{
+    background-color: rgb(98, 98, 98);
+}
+
+#tela{
+    width: 215px;
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    text-align: right;
+}
