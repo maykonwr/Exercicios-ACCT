@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const olamundo= "Ola Mundo";
+  const olamundo= "Hello World!";
   const data = new Date();
 
   return (
