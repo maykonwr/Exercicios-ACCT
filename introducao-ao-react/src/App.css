@@ -1,0 +1,28 @@
+.container {
+	background-image: linear-gradient(rgb(31, 31, 211), rgb(0, 140, 255), rgb(12, 161, 211));
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 1vmin);
+	color: white;
+	
+  }
+
+h2:nth-child(1){
+	color: black
+}
+
+h2:nth-child(5){
+	color: rgb(255, 115, 0)
+}
+  
+h2:nth-child(9){
+	color: rgb(128, 0, 255);
+  }
+
+
+h2:nth-child(10){
+  	color: red;
+}
