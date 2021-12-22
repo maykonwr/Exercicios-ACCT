@@ -1,5 +1,6 @@
 # Exercicios-ACCT
 ## Lista de estudos exercicios feitos no estagio ACCT
+### Modulo 01
 
 - *Aprendendo a utilizar o git*
 - *Criando e editando o arquivo README direto pelo terminal*
@@ -10,4 +11,5 @@
 - *Conclusão dos exercicios do flexbox Froggy*
 - *Estudos sobre javascript*
 - *Conclusão da calculadora em javascript*
+### Modulo 02 
 - *Inicio dos estudos sobre react*
